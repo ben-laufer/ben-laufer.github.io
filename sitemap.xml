@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ben-laufer.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-07-24T19:49:35-07:00</lastmod>
   </url><url>
-    <loc>https://ben-laufer.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://ben-laufer.github.io/tag/epigenetics/</loc>
+    <lastmod>2021-07-24T19:49:34-07:00</lastmod>
   </url><url>
-    <loc>https://ben-laufer.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://ben-laufer.github.io/project/cffdna/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ben-laufer.github.io/project/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ben-laufer.github.io/tags/</loc>
+    <lastmod>2021-07-24T19:49:35-07:00</lastmod>
   </url><url>
     <loc>https://ben-laufer.github.io/tag/bivalent-chromatin/</loc>
     <lastmod>2021-07-24T19:49:32-07:00</lastmod>
@@ -47,37 +53,13 @@
     <loc>https://ben-laufer.github.io/publication/laufer-2021-a/</loc>
     <lastmod>2021-07-24T19:49:32-07:00</lastmod>
   </url><url>
-    <loc>https://ben-laufer.github.io/tags/</loc>
-    <lastmod>2021-07-24T19:49:35-07:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://ben-laufer.github.io/project/genetic/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-laufer.github.io/tag/autism-spectrum-disorder/</loc>
     <lastmod>2021-07-24T19:49:30-07:00</lastmod>
   </url><url>
     <loc>https://ben-laufer.github.io/tag/dna-methylation/</loc>
-    <lastmod>2021-07-24T19:49:34-07:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/tag/epigenetics/</loc>
     <lastmod>2021-07-24T19:49:34-07:00</lastmod>
   </url><url>
     <loc>https://ben-laufer.github.io/tag/epigenome/</loc>
@@ -209,14 +191,8 @@
     <loc>https://ben-laufer.github.io/publication/laufer-2017/</loc>
     <lastmod>2021-07-24T19:49:31-07:00</lastmod>
   </url><url>
-    <loc>https://ben-laufer.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-laufer.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://ben-laufer.github.io/project/environmental/</loc>
+    <lastmod>2016-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-laufer.github.io/publication-type/7/</loc>
     <lastmod>2021-07-24T19:49:33-07:00</lastmod>
@@ -608,5 +584,7 @@
     <loc>https://ben-laufer.github.io/admin/</loc>
   </url><url>
     <loc>https://ben-laufer.github.io/tag/crispr/cas9/</loc>
+  </url><url>
+    <loc>https://ben-laufer.github.io/categories/</loc>
   </url>
 </urlset>
