@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ben-laufer.github.io/sitemap.xml
