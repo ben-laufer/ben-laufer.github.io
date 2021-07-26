@@ -5,7 +5,7 @@
     <link>https://ben-laufer.github.io/publication/</link>
       <atom:link href="https://ben-laufer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Epigenetic Impacts of Early Life Stress in Fetal Alcohol Spectrum Disorders Shape the Neurodevelopmental Continuum</title>
-      <link>https://ben-laufer.github.io/publication/alberry-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/alberry-2021/</guid>
+      <title>Placenta and fetal brain share a neurodevelopmental disorder DNA methylation profile in a mouse model of prenatal PCB exposure</title>
+      <link>https://ben-laufer.github.io/publication/laufer-2021/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-laufer.github.io/publication/laufer-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genome-Wide DNA Methylation Profiles of Neurodevelopmental Disorder Genes in Mouse Placenta and Fetal Brain Following Prenatal Exposure to Polychlorinated Biphenyls</title>
-      <link>https://ben-laufer.github.io/publication/laufer-2021/</link>
+      <title>Epigenetic Impacts of Early Life Stress in Fetal Alcohol Spectrum Disorders Shape the Neurodevelopmental Continuum</title>
+      <link>https://ben-laufer.github.io/publication/alberry-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/laufer-2021/</guid>
+      <guid>https://ben-laufer.github.io/publication/alberry-2021/</guid>
       <description></description>
     </item>
     
@@ -202,25 +202,6 @@
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://ben-laufer.github.io/publication/laufer-2013-a/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://ben-laufer.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
