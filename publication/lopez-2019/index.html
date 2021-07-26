@@ -33,7 +33,7 @@
   <meta name="description" content="Ubiquitin E3 ligase 3A (UBE3A) encodes an E3 ubiquitin ligase whose loss from the maternal allele causes the neurodevelopmental disorder Angelman syndrome (AS). Previous studies of UBE3A function have not examined full Ube3a deletion in mouse, the complexity of imprinted gene networks in brain nor the molecular basis of systems-level cognitive dysfunctions in AS. We therefore utilized a systems biology approach to elucidate how UBE3A loss impacts the early postnatal brain in a novel CRISPR/Cas9-engineered rat Angelman model of a complete Ube3a deletion. Strand-specific transcriptome analysis of offspring from maternally or paternally inherited Ube3a deletions revealed the expected parental expression patterns of Ube3a sense and antisense transcripts by postnatal day 2 (P2) in hypothalamus and day 9 (P9) in cortex, compared to wild-type littermates. The dependency of genome-wide effects on parent-of-origin, Ube3a genotype and time (P2 and P9) was investigated through transcriptome (RNA sequencing of cortex and hypothalamus) and methylome (whole-genome bisulfite sequencing of hypothalamus). Weighted gene co-expression and co-methylation network analyses identified co-regulated networks in maternally inherited Ube3a deletion offspring enriched in postnatal developmental processes including Wnt signaling, synaptic regulation, neuronal and glial functions, epigenetic regulation, ubiquitin, circadian entrainment and splicing. Furthermore, we showed that loss of the paternal Ube3a antisense transcript resulted in both unique and overlapping dysregulated gene pathways with maternal loss, predominantly at the level of differential methylation. Together, these results provide a holistic examination of the molecular impacts of UBE3A loss in brain, supporting the existence of interactive epigenetic networks between maternal and paternal transcripts at the Ube3a locus." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ben-laufer.github.io/publication/lopez-2019/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/lopez-2019/" />
 
   
 
@@ -268,6 +268,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41141302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-41141302-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -290,7 +329,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://ben-laufer.github.io/publication/lopez-2019/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/lopez-2019/" />
 
   
   
@@ -310,10 +349,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="https://ben-laufer.github.io/publication/lopez-2019/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/lopez-2019/" />
   <meta property="og:title" content="Imprinting effects of UBE3A loss on synaptic gene networks and Wnt signaling pathways | Ben Laufer" />
-  <meta property="og:description" content="Ubiquitin E3 ligase 3A (UBE3A) encodes an E3 ubiquitin ligase whose loss from the maternal allele causes the neurodevelopmental disorder Angelman syndrome (AS). Previous studies of UBE3A function have not examined full Ube3a deletion in mouse, the complexity of imprinted gene networks in brain nor the molecular basis of systems-level cognitive dysfunctions in AS. We therefore utilized a systems biology approach to elucidate how UBE3A loss impacts the early postnatal brain in a novel CRISPR/Cas9-engineered rat Angelman model of a complete Ube3a deletion. Strand-specific transcriptome analysis of offspring from maternally or paternally inherited Ube3a deletions revealed the expected parental expression patterns of Ube3a sense and antisense transcripts by postnatal day 2 (P2) in hypothalamus and day 9 (P9) in cortex, compared to wild-type littermates. The dependency of genome-wide effects on parent-of-origin, Ube3a genotype and time (P2 and P9) was investigated through transcriptome (RNA sequencing of cortex and hypothalamus) and methylome (whole-genome bisulfite sequencing of hypothalamus). Weighted gene co-expression and co-methylation network analyses identified co-regulated networks in maternally inherited Ube3a deletion offspring enriched in postnatal developmental processes including Wnt signaling, synaptic regulation, neuronal and glial functions, epigenetic regulation, ubiquitin, circadian entrainment and splicing. Furthermore, we showed that loss of the paternal Ube3a antisense transcript resulted in both unique and overlapping dysregulated gene pathways with maternal loss, predominantly at the level of differential methylation. Together, these results provide a holistic examination of the molecular impacts of UBE3A loss in brain, supporting the existence of interactive epigenetic networks between maternal and paternal transcripts at the Ube3a locus." /><meta property="og:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Ubiquitin E3 ligase 3A (UBE3A) encodes an E3 ubiquitin ligase whose loss from the maternal allele causes the neurodevelopmental disorder Angelman syndrome (AS). Previous studies of UBE3A function have not examined full Ube3a deletion in mouse, the complexity of imprinted gene networks in brain nor the molecular basis of systems-level cognitive dysfunctions in AS. We therefore utilized a systems biology approach to elucidate how UBE3A loss impacts the early postnatal brain in a novel CRISPR/Cas9-engineered rat Angelman model of a complete Ube3a deletion. Strand-specific transcriptome analysis of offspring from maternally or paternally inherited Ube3a deletions revealed the expected parental expression patterns of Ube3a sense and antisense transcripts by postnatal day 2 (P2) in hypothalamus and day 9 (P9) in cortex, compared to wild-type littermates. The dependency of genome-wide effects on parent-of-origin, Ube3a genotype and time (P2 and P9) was investigated through transcriptome (RNA sequencing of cortex and hypothalamus) and methylome (whole-genome bisulfite sequencing of hypothalamus). Weighted gene co-expression and co-methylation network analyses identified co-regulated networks in maternally inherited Ube3a deletion offspring enriched in postnatal developmental processes including Wnt signaling, synaptic regulation, neuronal and glial functions, epigenetic regulation, ubiquitin, circadian entrainment and splicing. Furthermore, we showed that loss of the paternal Ube3a antisense transcript resulted in both unique and overlapping dysregulated gene pathways with maternal loss, predominantly at the level of differential methylation. Together, these results provide a holistic examination of the molecular impacts of UBE3A loss in brain, supporting the existence of interactive epigenetic networks between maternal and paternal transcripts at the Ube3a locus." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -343,7 +382,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ben-laufer.github.io/publication/lopez-2019/"
+    "@id": "https://www.benlaufer.com/publication/lopez-2019/"
   },
   "headline": "Imprinting effects of UBE3A loss on synaptic gene networks and Wnt signaling pathways",
   
@@ -360,7 +399,7 @@
     "name": "Ben Laufer",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Ubiquitin E3 ligase 3A (UBE3A) encodes an E3 ubiquitin ligase whose loss from the maternal allele causes the neurodevelopmental disorder Angelman syndrome (AS). Previous studies of UBE3A function have not examined full Ube3a deletion in mouse, the complexity of imprinted gene networks in brain nor the molecular basis of systems-level cognitive dysfunctions in AS. We therefore utilized a systems biology approach to elucidate how UBE3A loss impacts the early postnatal brain in a novel CRISPR/Cas9-engineered rat Angelman model of a complete Ube3a deletion. Strand-specific transcriptome analysis of offspring from maternally or paternally inherited Ube3a deletions revealed the expected parental expression patterns of Ube3a sense and antisense transcripts by postnatal day 2 (P2) in hypothalamus and day 9 (P9) in cortex, compared to wild-type littermates. The dependency of genome-wide effects on parent-of-origin, Ube3a genotype and time (P2 and P9) was investigated through transcriptome (RNA sequencing of cortex and hypothalamus) and methylome (whole-genome bisulfite sequencing of hypothalamus). Weighted gene co-expression and co-methylation network analyses identified co-regulated networks in maternally inherited Ube3a deletion offspring enriched in postnatal developmental processes including Wnt signaling, synaptic regulation, neuronal and glial functions, epigenetic regulation, ubiquitin, circadian entrainment and splicing. Furthermore, we showed that loss of the paternal Ube3a antisense transcript resulted in both unique and overlapping dysregulated gene pathways with maternal loss, predominantly at the level of differential methylation. Together, these results provide a holistic examination of the molecular impacts of UBE3A loss in brain, supporting the existence of interactive epigenetic networks between maternal and paternal transcripts at the Ube3a locus."

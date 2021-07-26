@@ -33,7 +33,7 @@
   <meta name="description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ben-laufer.github.io/tag/fetal-alcohol-spectrum-disorder/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/tag/fetal-alcohol-spectrum-disorder/" />
 
   
 
@@ -268,6 +268,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41141302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-41141302-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -292,7 +331,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://ben-laufer.github.io/tag/fetal-alcohol-spectrum-disorder/" />
+  <link rel="canonical" href="https://www.benlaufer.com/tag/fetal-alcohol-spectrum-disorder/" />
 
   
   
@@ -312,10 +351,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="https://ben-laufer.github.io/tag/fetal-alcohol-spectrum-disorder/" />
+  <meta property="og:url" content="https://www.benlaufer.com/tag/fetal-alcohol-spectrum-disorder/" />
   <meta property="og:title" content="&#34;Fetal alcohol spectrum disorder&#34; | Ben Laufer" />
-  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2014-01-01T00:00:00&#43;00:00" />

@@ -33,7 +33,7 @@
   <meta name="description" content="Down Syndrome (DS) is the most common genetic cause of intellectual disability, in which an extra copy of human chromosome 21 (HSA21) affects regional DNA methylation profiles across the genome. Although DNA methylation has been previously examined at select regulatory regions across the genome in a variety of DS tissues and cells, differentially methylated regions (DMRs) have yet to be examined in an unbiased sequencing-based approach. Here, we present the first analysis of DMRs from whole genome bisulfite sequencing (WGBS) data of human DS and matched control brain, specifically frontal cortex. While no global differences in DNA methylation were observed, we identified 3,152 DS-DMRs across the entire genome, the majority of which were hypermethylated in DS. DS-DMRs were significantly enriched at CpG islands and de-enriched at specific gene body and regulatory regions. Functionally, the hypermethylated DS-DMRs were enriched for one-carbon metabolism, membrane transport, and glutamatergic synaptic signalling, while the hypomethylated DMRs were enriched for proline isomerization, glial immune response, and apoptosis. Furthermore, in a cross-tissue comparison to previous studies of DNA methylation from diverse DS tissues and reference epigenomes, hypermethylated DS-DMRs showed a strong cross-tissue concordance, while a more tissue-specific pattern was observed for the hypomethylated DS-DMRs. Overall, this approach highlights that low-coverage WGBS of clinical samples can identify epigenetic alterations to known biological pathways, which are potentially relevant to therapeutic treatments and include metabolic pathways. These results also provide new insights into the genome-wide effects of genetic alterations on DNA methylation profiles indicative of altered neurodevelopment and brain function." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ben-laufer.github.io/publication/laufer-2019/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/laufer-2019/" />
 
   
 
@@ -268,6 +268,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41141302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-41141302-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -290,7 +329,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://ben-laufer.github.io/publication/laufer-2019/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/laufer-2019/" />
 
   
   
@@ -310,10 +349,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="https://ben-laufer.github.io/publication/laufer-2019/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/laufer-2019/" />
   <meta property="og:title" content="Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights | Ben Laufer" />
-  <meta property="og:description" content="Down Syndrome (DS) is the most common genetic cause of intellectual disability, in which an extra copy of human chromosome 21 (HSA21) affects regional DNA methylation profiles across the genome. Although DNA methylation has been previously examined at select regulatory regions across the genome in a variety of DS tissues and cells, differentially methylated regions (DMRs) have yet to be examined in an unbiased sequencing-based approach. Here, we present the first analysis of DMRs from whole genome bisulfite sequencing (WGBS) data of human DS and matched control brain, specifically frontal cortex. While no global differences in DNA methylation were observed, we identified 3,152 DS-DMRs across the entire genome, the majority of which were hypermethylated in DS. DS-DMRs were significantly enriched at CpG islands and de-enriched at specific gene body and regulatory regions. Functionally, the hypermethylated DS-DMRs were enriched for one-carbon metabolism, membrane transport, and glutamatergic synaptic signalling, while the hypomethylated DMRs were enriched for proline isomerization, glial immune response, and apoptosis. Furthermore, in a cross-tissue comparison to previous studies of DNA methylation from diverse DS tissues and reference epigenomes, hypermethylated DS-DMRs showed a strong cross-tissue concordance, while a more tissue-specific pattern was observed for the hypomethylated DS-DMRs. Overall, this approach highlights that low-coverage WGBS of clinical samples can identify epigenetic alterations to known biological pathways, which are potentially relevant to therapeutic treatments and include metabolic pathways. These results also provide new insights into the genome-wide effects of genetic alterations on DNA methylation profiles indicative of altered neurodevelopment and brain function." /><meta property="og:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Down Syndrome (DS) is the most common genetic cause of intellectual disability, in which an extra copy of human chromosome 21 (HSA21) affects regional DNA methylation profiles across the genome. Although DNA methylation has been previously examined at select regulatory regions across the genome in a variety of DS tissues and cells, differentially methylated regions (DMRs) have yet to be examined in an unbiased sequencing-based approach. Here, we present the first analysis of DMRs from whole genome bisulfite sequencing (WGBS) data of human DS and matched control brain, specifically frontal cortex. While no global differences in DNA methylation were observed, we identified 3,152 DS-DMRs across the entire genome, the majority of which were hypermethylated in DS. DS-DMRs were significantly enriched at CpG islands and de-enriched at specific gene body and regulatory regions. Functionally, the hypermethylated DS-DMRs were enriched for one-carbon metabolism, membrane transport, and glutamatergic synaptic signalling, while the hypomethylated DMRs were enriched for proline isomerization, glial immune response, and apoptosis. Furthermore, in a cross-tissue comparison to previous studies of DNA methylation from diverse DS tissues and reference epigenomes, hypermethylated DS-DMRs showed a strong cross-tissue concordance, while a more tissue-specific pattern was observed for the hypomethylated DS-DMRs. Overall, this approach highlights that low-coverage WGBS of clinical samples can identify epigenetic alterations to known biological pathways, which are potentially relevant to therapeutic treatments and include metabolic pathways. These results also provide new insights into the genome-wide effects of genetic alterations on DNA methylation profiles indicative of altered neurodevelopment and brain function." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -343,7 +382,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ben-laufer.github.io/publication/laufer-2019/"
+    "@id": "https://www.benlaufer.com/publication/laufer-2019/"
   },
   "headline": "Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights",
   
@@ -360,7 +399,7 @@
     "name": "Ben Laufer",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Down Syndrome (DS) is the most common genetic cause of intellectual disability, in which an extra copy of human chromosome 21 (HSA21) affects regional DNA methylation profiles across the genome. Although DNA methylation has been previously examined at select regulatory regions across the genome in a variety of DS tissues and cells, differentially methylated regions (DMRs) have yet to be examined in an unbiased sequencing-based approach. Here, we present the first analysis of DMRs from whole genome bisulfite sequencing (WGBS) data of human DS and matched control brain, specifically frontal cortex. While no global differences in DNA methylation were observed, we identified 3,152 DS-DMRs across the entire genome, the majority of which were hypermethylated in DS. DS-DMRs were significantly enriched at CpG islands and de-enriched at specific gene body and regulatory regions. Functionally, the hypermethylated DS-DMRs were enriched for one-carbon metabolism, membrane transport, and glutamatergic synaptic signalling, while the hypomethylated DMRs were enriched for proline isomerization, glial immune response, and apoptosis. Furthermore, in a cross-tissue comparison to previous studies of DNA methylation from diverse DS tissues and reference epigenomes, hypermethylated DS-DMRs showed a strong cross-tissue concordance, while a more tissue-specific pattern was observed for the hypomethylated DS-DMRs. Overall, this approach highlights that low-coverage WGBS of clinical samples can identify epigenetic alterations to known biological pathways, which are potentially relevant to therapeutic treatments and include metabolic pathways. These results also provide new insights into the genome-wide effects of genetic alterations on DNA methylation profiles indicative of altered neurodevelopment and brain function."

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Down syndrome&#34; | Ben Laufer</title>
-    <link>https://ben-laufer.github.io/tag/down-syndrome/</link>
-      <atom:link href="https://ben-laufer.github.io/tag/down-syndrome/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tag/down-syndrome/</link>
+      <atom:link href="https://www.benlaufer.com/tag/down-syndrome/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Down syndrome&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>&#34;Down syndrome&#34;</title>
-      <link>https://ben-laufer.github.io/tag/down-syndrome/</link>
+      <link>https://www.benlaufer.com/tag/down-syndrome/</link>
     </image>
     
     <item>
       <title>Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature</title>
-      <link>https://ben-laufer.github.io/publication/laufer-2021-a/</link>
+      <link>https://www.benlaufer.com/publication/laufer-2021-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/laufer-2021-a/</guid>
+      <guid>https://www.benlaufer.com/publication/laufer-2021-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</title>
-      <link>https://ben-laufer.github.io/publication/laufer-2019/</link>
+      <link>https://www.benlaufer.com/publication/laufer-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/laufer-2019/</guid>
+      <guid>https://www.benlaufer.com/publication/laufer-2019/</guid>
       <description></description>
     </item>
     

@@ -33,7 +33,7 @@
   <meta name="description" content="Polychlorinated biphenyls (PCBs) are developmental neurotoxicants implicated as environmental risk factors for neurodevelopmental disorders (NDD). We examined the effects of prenatal exposure to a human-relevant mixture of PCBs on the DNA methylation profiles of fetal mouse brain and placenta. We found thousands of differentially methylated regions (DMRs) distinguishing placentas and brains from PCB-exposed embryos from sex-matched vehicle controls. In both placenta and brain, PCB-associated DMRs were enriched for functions related to neurodevelopment and cellular signaling and enriched within regions of bivalent chromatin. The placenta and brain PCB DMRs overlapped significantly and mapped to a shared subset of genes enriched for Wnt signaling, Slit/Robo signaling, and genes differentially expressed in NDD models. PBC DMRs also significantly overlapped with DMRs from the brains of humans with Rett syndrome and Dup15q syndrome. These results demonstrate that placenta can be used as a surrogate for embryonic brain DNA methylation changes relevant to an NDD." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ben-laufer.github.io/publication/laufer-2021/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/laufer-2021/" />
 
   
 
@@ -268,6 +268,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41141302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-41141302-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -290,7 +329,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://ben-laufer.github.io/publication/laufer-2021/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/laufer-2021/" />
 
   
   
@@ -309,10 +348,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="https://ben-laufer.github.io/publication/laufer-2021/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/laufer-2021/" />
   <meta property="og:title" content="Placenta and fetal brain share a neurodevelopmental disorder DNA methylation profile in a mouse model of prenatal PCB exposure | Ben Laufer" />
-  <meta property="og:description" content="Polychlorinated biphenyls (PCBs) are developmental neurotoxicants implicated as environmental risk factors for neurodevelopmental disorders (NDD). We examined the effects of prenatal exposure to a human-relevant mixture of PCBs on the DNA methylation profiles of fetal mouse brain and placenta. We found thousands of differentially methylated regions (DMRs) distinguishing placentas and brains from PCB-exposed embryos from sex-matched vehicle controls. In both placenta and brain, PCB-associated DMRs were enriched for functions related to neurodevelopment and cellular signaling and enriched within regions of bivalent chromatin. The placenta and brain PCB DMRs overlapped significantly and mapped to a shared subset of genes enriched for Wnt signaling, Slit/Robo signaling, and genes differentially expressed in NDD models. PBC DMRs also significantly overlapped with DMRs from the brains of humans with Rett syndrome and Dup15q syndrome. These results demonstrate that placenta can be used as a surrogate for embryonic brain DNA methylation changes relevant to an NDD." /><meta property="og:image" content="https://ben-laufer.github.io/publication/laufer-2021/featured.png" />
-    <meta property="twitter:image" content="https://ben-laufer.github.io/publication/laufer-2021/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Polychlorinated biphenyls (PCBs) are developmental neurotoxicants implicated as environmental risk factors for neurodevelopmental disorders (NDD). We examined the effects of prenatal exposure to a human-relevant mixture of PCBs on the DNA methylation profiles of fetal mouse brain and placenta. We found thousands of differentially methylated regions (DMRs) distinguishing placentas and brains from PCB-exposed embryos from sex-matched vehicle controls. In both placenta and brain, PCB-associated DMRs were enriched for functions related to neurodevelopment and cellular signaling and enriched within regions of bivalent chromatin. The placenta and brain PCB DMRs overlapped significantly and mapped to a shared subset of genes enriched for Wnt signaling, Slit/Robo signaling, and genes differentially expressed in NDD models. PBC DMRs also significantly overlapped with DMRs from the brains of humans with Rett syndrome and Dup15q syndrome. These results demonstrate that placenta can be used as a surrogate for embryonic brain DNA methylation changes relevant to an NDD." /><meta property="og:image" content="https://www.benlaufer.com/publication/laufer-2021/featured.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/publication/laufer-2021/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -342,12 +381,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ben-laufer.github.io/publication/laufer-2021/"
+    "@id": "https://www.benlaufer.com/publication/laufer-2021/"
   },
   "headline": "Placenta and fetal brain share a neurodevelopmental disorder DNA methylation profile in a mouse model of prenatal PCB exposure",
   
   "image": [
-    "https://ben-laufer.github.io/publication/laufer-2021/featured.png"
+    "https://www.benlaufer.com/publication/laufer-2021/featured.png"
   ],
   
   "datePublished": "2021-07-25T02:49:31Z",
@@ -363,7 +402,7 @@
     "name": "Ben Laufer",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Polychlorinated biphenyls (PCBs) are developmental neurotoxicants implicated as environmental risk factors for neurodevelopmental disorders (NDD). We examined the effects of prenatal exposure to a human-relevant mixture of PCBs on the DNA methylation profiles of fetal mouse brain and placenta. We found thousands of differentially methylated regions (DMRs) distinguishing placentas and brains from PCB-exposed embryos from sex-matched vehicle controls. In both placenta and brain, PCB-associated DMRs were enriched for functions related to neurodevelopment and cellular signaling and enriched within regions of bivalent chromatin. The placenta and brain PCB DMRs overlapped significantly and mapped to a shared subset of genes enriched for Wnt signaling, Slit/Robo signaling, and genes differentially expressed in NDD models. PBC DMRs also significantly overlapped with DMRs from the brains of humans with Rett syndrome and Dup15q syndrome. These results demonstrate that placenta can be used as a surrogate for embryonic brain DNA methylation changes relevant to an NDD."

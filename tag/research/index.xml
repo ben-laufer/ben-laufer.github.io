@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Ben Laufer</title>
-    <link>https://ben-laufer.github.io/tag/research/</link>
-      <atom:link href="https://ben-laufer.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tag/research/</link>
+      <atom:link href="https://www.benlaufer.com/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
-      <link>https://ben-laufer.github.io/tag/research/</link>
+      <link>https://www.benlaufer.com/tag/research/</link>
     </image>
     
     <item>
       <title>Placental Footprints of Neurodevelopment</title>
-      <link>https://ben-laufer.github.io/project/cffdna/</link>
+      <link>https://www.benlaufer.com/project/cffdna/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/project/cffdna/</guid>
+      <guid>https://www.benlaufer.com/project/cffdna/</guid>
       <description>&lt;p&gt;I have demonstrated the association between placental and brain DNA methylation profiles in two projects. In the first project, I have examined a mouse model of prenatal exposure to polychlorinated biphenyls (PCBs) and characterized a shared subset of DMRs mapping to neurodevelopmental and cellular signaling genes in placenta and fetal brain from the same mice. In the second project, I have analyzed cffDNA and genomic DNA from a model of exposure to maternal obesity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Genetic Impacts on the Epigenome</title>
-      <link>https://ben-laufer.github.io/project/genetic/</link>
+      <link>https://www.benlaufer.com/project/genetic/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/project/genetic/</guid>
+      <guid>https://www.benlaufer.com/project/genetic/</guid>
       <description>&lt;p&gt;Down syndrome (DS) is the leading genetic cause of NDDs and there is variation in the level of intellectual disability amongst patients. While DS is caused by trisomy 21, it represents an example of genetics shaping epigenetics. Reduced representation methods have demonstrated genome-wide differences in DNA methylation in multiple DS tissues and noted a group of genes with pan-tissue hypermethylation, which includes the clustered protocadherins and RUNX1. In our research, we were the first to apply low-pass WGBS to identify DMRs in DS brain samples and neonatal dried blood spots. By assaying regions of the genome that have never been examined before in DS patients, we demonstrated that many of the previously identified differentially methylated single CpG sites are actually part of larger scale DMRs with functional relevance to neurodevelopment. Machine learning feature selection refined these DMRs to 22 loci. We also observed differences related to the one-carbon metabolic pathway that establishes DNA methylation. Finally, we further characterized a dichotomy in the DNA methylation signature of DS, where many of the hypermethylated regions are observed in all tissues (pan-tissue) and many of the hypomethylated regions are tissue-specific. In order to functionally investigate the mechanism of the DS methylation signature, we have also established human neuronal cell culture models of DS (SH-SY5Y and LUHMES), which we transfected with the catalytically inactive but stimulatory DNA methyltransferase DNMT3L that is located on chromosome 21. We found that stable overexpression of DNMT3L recreates a significant proportion of the genome-wide pan-tissue DS DNA hypermethylation profile. However, DNMT3L overexpression alone is not sufficient to recreate the complete DNA methylation profile of DS. Notably, we also a observed a role for the known chromosome 21 encoded transcription factor RUNX1 in neonatal blood, where it was the most differentially methylated region in DS newborns and marked by a large block of hypermethylation that overlaps with its super-enhancer. We observed a genome-wide impact, as all of RUNX1’s binding sites were hypomethylated, which is in line with its known role in demethylating DNA at target genes. Overall, these experiments suggest that DNMT3L drives the pan-tissue hypermethylation profile in all DS tissues, while RUNX1 drives a tissue-specific hypomethylation profile. Although RUNX1 is primarily studied as a hematopoietic transcription factor, we also observed that it was hypermethylated in DS post-mortem brain, which is notable given its known but relatively underexplored role in neurodevelopment.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Environmental Impacts on the Epigenome</title>
-      <link>https://ben-laufer.github.io/project/environment/</link>
+      <link>https://www.benlaufer.com/project/environment/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/project/environment/</guid>
+      <guid>https://www.benlaufer.com/project/environment/</guid>
       <description>&lt;p&gt;The consumption of alcohol during any stage of pregnancy can result in fetal alcohol spectrum disorders (FASDs), with there being no empirically determined safe dose or safe timing of prenatal alcohol exposure (PAE). FASDs are the leading preventable cause of intellectual disability in the western world. In North America, ~10% of pregnant women and ~20% of breast-feeding women consume alcohol; however, FASDs are diagnosed in only ~2-3% of children. Accurate biomarkers of PAE and its neurodevelopmental impacts are needed, as current diagnostics are not specific to the large number of individuals on the spectrum without craniofacial malformations who require specialized behavioral therapies specific to FASDs. Since some FASD phenotypes can be attenuated by the supplementation of methyl donors from the one-carbon metabolism pathway, DNA methylation plays a key role in the etiology of FASDs. Furthermore, FASDs represent one of a select few common NDDs where the cause is known (PAE), which poises it to provide generalizable insights for NDDs with an environmental component.
 During my graduate research, we examined a mouse model of a chronic but moderate prenatal alcohol exposure throughout pregnancy. I utilized microarray technologies to integrate genome-wide DNA methylation, microRNA expression, and gene expression profiles of exposed mouse brains at adulthood. Strikingly, while there were genome-wide alterations at all levels, there was a distinct profile of alterations to genomically imprinted clusters of non-coding RNA, which are expressed in a parent-of-origin specific manner and are involved in (neuro)development. These findings were then replicated in other mouse models of PAE, both in collaboration with other members from my graduate lab, as well as by independent laboratories.
 After establishing that there are long-term alterations to the epigenome in the brains of prenatal alcohol exposed mice, we formed a collaboration with Dr. Joachim Kapalanga (MD-PhD). I examined the DNA methylation profile of cells in the buccal swabs of young children with FASD using the 450K BeadChip array and compared the results to our mouse model. Interestingly, we observed similar alterations to epigenetically sensitive regions that were identified in the rodent models. This work was the first epigenome-wide investigation of children with FASD and has provided the foundation for the possibility of a molecular diagnostic for FASD. The results implicated differentially methylated regions (DMRs) within the clustered protocadherins, which establish single-cell neuronal identity, and this result was seen in both adult mouse brains and the buccal swabs of children. Notably, buccal epithelial cells are derived from the neuroectoderm and thus share a close ontogenetic relationship with brain, which may explain the shared epigenomic profile of early neurodevelopment. An independent laboratory has replicated the large-scale protocadherin DMRs and noted the effect of genetic variation in a cohort of children from different ethnicities.&lt;/p&gt;

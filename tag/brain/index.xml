@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Brain&#34; | Ben Laufer</title>
-    <link>https://ben-laufer.github.io/tag/brain/</link>
-      <atom:link href="https://ben-laufer.github.io/tag/brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tag/brain/</link>
+      <atom:link href="https://www.benlaufer.com/tag/brain/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Brain&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>&#34;Brain&#34;</title>
-      <link>https://ben-laufer.github.io/tag/brain/</link>
+      <link>https://www.benlaufer.com/tag/brain/</link>
     </image>
     
     <item>
       <title>Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</title>
-      <link>https://ben-laufer.github.io/publication/laufer-2019/</link>
+      <link>https://www.benlaufer.com/publication/laufer-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/laufer-2019/</guid>
+      <guid>https://www.benlaufer.com/publication/laufer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-lasting alterations to DNA methylation and ncRNAs could underlie the effects of fetal alcohol exposure in mice</title>
-      <link>https://ben-laufer.github.io/publication/laufer-2013/</link>
+      <link>https://www.benlaufer.com/publication/laufer-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/laufer-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/laufer-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term alterations to the brain transcriptome in a maternal voluntary consumption model of fetal alcohol spectrum disorders</title>
-      <link>https://ben-laufer.github.io/publication/kleiber-2012/</link>
+      <link>https://www.benlaufer.com/publication/kleiber-2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://ben-laufer.github.io/publication/kleiber-2012/</guid>
+      <guid>https://www.benlaufer.com/publication/kleiber-2012/</guid>
       <description></description>
     </item>
     

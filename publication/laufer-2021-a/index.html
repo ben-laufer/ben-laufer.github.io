@@ -33,7 +33,7 @@
   <meta name="description" content="Background: Down syndrome (DS) is characterized by a genome-wide profile of differential DNA methylation that is skewed towards hypermethylation in most tissues, including brain, and includes pan-tissue differential methylation. The molecular mechanisms involve the overexpression of genes related to DNA methylation on chromosome 21. Here, we stably overexpressed the chromosome 21 gene DNA methyltransferase 3L (DNMT3L) in the human SH-SY5Y neuroblastoma cell line and assayed DNA methylation at over 26 million CpGs by whole genome bisulfite sequencing (WGBS) at three different developmental phases (undifferentiated, differentiating, and differentiated). Results: DNMT3L overexpression resulted in global CpG and CpG island hypermethylation as well as thousands of differentially methylated regions (DMRs). The DNMT3L DMRs were skewed towards hypermethylation and mapped to genes involved in neurodevelopment, cellular signaling, and gene regulation. Consensus DNMT3L DMRs showed that cell lines clustered by genotype and then differentiation phase, demonstrating sets of common genes affected across neuronal differentiation. The hypermethylated DNMT3L DMRs from all pairwise comparisons were enriched for regions of bivalent chromatin marked by H3K4me3 as well as differentially methylated sites from previous DS studies of diverse tissues. In contrast, the hypomethylated DNMT3L DMRs from all pairwise comparisons displayed a tissue-specific profile enriched for regions of heterochromatin marked by H3K9me3 during embryonic development. Conclusions: Taken together, these results support a mechanism whereby regions of bivalent chromatin that lose H3K4me3 during neuronal differentiation are targeted by excess DNMT3L and become hypermethylated. Overall, these findings demonstrate that DNMT3L overexpression during neurodevelopment recreates a facet of the genome-wide DS DNA methylation signature by targeting known genes and gene clusters that display pan-tissue differential methylation in DS." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ben-laufer.github.io/publication/laufer-2021-a/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/laufer-2021-a/" />
 
   
 
@@ -268,6 +268,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41141302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-41141302-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -290,7 +329,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://ben-laufer.github.io/publication/laufer-2021-a/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/laufer-2021-a/" />
 
   
   
@@ -310,10 +349,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="https://ben-laufer.github.io/publication/laufer-2021-a/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/laufer-2021-a/" />
   <meta property="og:title" content="Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature | Ben Laufer" />
-  <meta property="og:description" content="Background: Down syndrome (DS) is characterized by a genome-wide profile of differential DNA methylation that is skewed towards hypermethylation in most tissues, including brain, and includes pan-tissue differential methylation. The molecular mechanisms involve the overexpression of genes related to DNA methylation on chromosome 21. Here, we stably overexpressed the chromosome 21 gene DNA methyltransferase 3L (DNMT3L) in the human SH-SY5Y neuroblastoma cell line and assayed DNA methylation at over 26 million CpGs by whole genome bisulfite sequencing (WGBS) at three different developmental phases (undifferentiated, differentiating, and differentiated). Results: DNMT3L overexpression resulted in global CpG and CpG island hypermethylation as well as thousands of differentially methylated regions (DMRs). The DNMT3L DMRs were skewed towards hypermethylation and mapped to genes involved in neurodevelopment, cellular signaling, and gene regulation. Consensus DNMT3L DMRs showed that cell lines clustered by genotype and then differentiation phase, demonstrating sets of common genes affected across neuronal differentiation. The hypermethylated DNMT3L DMRs from all pairwise comparisons were enriched for regions of bivalent chromatin marked by H3K4me3 as well as differentially methylated sites from previous DS studies of diverse tissues. In contrast, the hypomethylated DNMT3L DMRs from all pairwise comparisons displayed a tissue-specific profile enriched for regions of heterochromatin marked by H3K9me3 during embryonic development. Conclusions: Taken together, these results support a mechanism whereby regions of bivalent chromatin that lose H3K4me3 during neuronal differentiation are targeted by excess DNMT3L and become hypermethylated. Overall, these findings demonstrate that DNMT3L overexpression during neurodevelopment recreates a facet of the genome-wide DS DNA methylation signature by targeting known genes and gene clusters that display pan-tissue differential methylation in DS." /><meta property="og:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Background: Down syndrome (DS) is characterized by a genome-wide profile of differential DNA methylation that is skewed towards hypermethylation in most tissues, including brain, and includes pan-tissue differential methylation. The molecular mechanisms involve the overexpression of genes related to DNA methylation on chromosome 21. Here, we stably overexpressed the chromosome 21 gene DNA methyltransferase 3L (DNMT3L) in the human SH-SY5Y neuroblastoma cell line and assayed DNA methylation at over 26 million CpGs by whole genome bisulfite sequencing (WGBS) at three different developmental phases (undifferentiated, differentiating, and differentiated). Results: DNMT3L overexpression resulted in global CpG and CpG island hypermethylation as well as thousands of differentially methylated regions (DMRs). The DNMT3L DMRs were skewed towards hypermethylation and mapped to genes involved in neurodevelopment, cellular signaling, and gene regulation. Consensus DNMT3L DMRs showed that cell lines clustered by genotype and then differentiation phase, demonstrating sets of common genes affected across neuronal differentiation. The hypermethylated DNMT3L DMRs from all pairwise comparisons were enriched for regions of bivalent chromatin marked by H3K4me3 as well as differentially methylated sites from previous DS studies of diverse tissues. In contrast, the hypomethylated DNMT3L DMRs from all pairwise comparisons displayed a tissue-specific profile enriched for regions of heterochromatin marked by H3K9me3 during embryonic development. Conclusions: Taken together, these results support a mechanism whereby regions of bivalent chromatin that lose H3K4me3 during neuronal differentiation are targeted by excess DNMT3L and become hypermethylated. Overall, these findings demonstrate that DNMT3L overexpression during neurodevelopment recreates a facet of the genome-wide DS DNA methylation signature by targeting known genes and gene clusters that display pan-tissue differential methylation in DS." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -343,7 +382,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ben-laufer.github.io/publication/laufer-2021-a/"
+    "@id": "https://www.benlaufer.com/publication/laufer-2021-a/"
   },
   "headline": "Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature",
   
@@ -360,7 +399,7 @@
     "name": "Ben Laufer",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ben-laufer.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "Background: Down syndrome (DS) is characterized by a genome-wide profile of differential DNA methylation that is skewed towards hypermethylation in most tissues, including brain, and includes pan-tissue differential methylation. The molecular mechanisms involve the overexpression of genes related to DNA methylation on chromosome 21. Here, we stably overexpressed the chromosome 21 gene DNA methyltransferase 3L (DNMT3L) in the human SH-SY5Y neuroblastoma cell line and assayed DNA methylation at over 26 million CpGs by whole genome bisulfite sequencing (WGBS) at three different developmental phases (undifferentiated, differentiating, and differentiated). Results: DNMT3L overexpression resulted in global CpG and CpG island hypermethylation as well as thousands of differentially methylated regions (DMRs). The DNMT3L DMRs were skewed towards hypermethylation and mapped to genes involved in neurodevelopment, cellular signaling, and gene regulation. Consensus DNMT3L DMRs showed that cell lines clustered by genotype and then differentiation phase, demonstrating sets of common genes affected across neuronal differentiation. The hypermethylated DNMT3L DMRs from all pairwise comparisons were enriched for regions of bivalent chromatin marked by H3K4me3 as well as differentially methylated sites from previous DS studies of diverse tissues. In contrast, the hypomethylated DNMT3L DMRs from all pairwise comparisons displayed a tissue-specific profile enriched for regions of heterochromatin marked by H3K9me3 during embryonic development. Conclusions: Taken together, these results support a mechanism whereby regions of bivalent chromatin that lose H3K4me3 during neuronal differentiation are targeted by excess DNMT3L and become hypermethylated. Overall, these findings demonstrate that DNMT3L overexpression during neurodevelopment recreates a facet of the genome-wide DS DNA methylation signature by targeting known genes and gene clusters that display pan-tissue differential methylation in DS."
