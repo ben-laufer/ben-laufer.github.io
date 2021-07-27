@@ -67,17 +67,17 @@ After establishing that there are long-term alterations to the epigenome in the 
     
     <item>
       <title>DMRichR</title>
-      <link>https://www.benlaufer.com/project/dmrichr/</link>
+      <link>https://www.benlaufer.com/programs/dmrichr/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/dmrichr/</guid>
+      <guid>https://www.benlaufer.com/programs/dmrichr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CpG_Me</title>
-      <link>https://www.benlaufer.com/project/cpg_me/</link>
+      <link>https://www.benlaufer.com/programs/cpg_me/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/cpg_me/</guid>
+      <guid>https://www.benlaufer.com/programs/cpg_me/</guid>
       <description></description>
     </item>
     
@@ -381,9 +381,9 @@ Three
     
     <item>
       <title>EpiGenie</title>
-      <link>https://www.benlaufer.com/project/epigenie/</link>
+      <link>https://www.benlaufer.com/scicomm/epigenie/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/epigenie/</guid>
+      <guid>https://www.benlaufer.com/scicomm/epigenie/</guid>
       <description></description>
     </item>
     
@@ -392,6 +392,14 @@ Three
       <link>https://www.benlaufer.com/publication/anderson-schmidt-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://www.benlaufer.com/publication/anderson-schmidt-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is Epigenetics</title>
+      <link>https://www.benlaufer.com/scicomm/ceehrc/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.benlaufer.com/scicomm/ceehrc/</guid>
       <description></description>
     </item>
     

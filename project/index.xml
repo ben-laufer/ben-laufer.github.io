@@ -41,29 +41,5 @@ After establishing that there are long-term alterations to the epigenome in the 
 </description>
     </item>
     
-    <item>
-      <title>DMRichR</title>
-      <link>https://www.benlaufer.com/project/dmrichr/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/dmrichr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CpG_Me</title>
-      <link>https://www.benlaufer.com/project/cpg_me/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/cpg_me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EpiGenie</title>
-      <link>https://www.benlaufer.com/project/epigenie/</link>
-      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.benlaufer.com/project/epigenie/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
