@@ -5,12 +5,20 @@
     <link>https://www.benlaufer.com/publication/</link>
       <atom:link href="https://www.benlaufer.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Ben Laufer</copyright><lastBuildDate>Tue, 31 Aug 2021 23:05:49 +0000</lastBuildDate>
     <image>
       <url>https://www.benlaufer.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.benlaufer.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Multi-omic brain and behavioral correlates of cell-free fetal DNA methylation in macaque maternal obesity models</title>
+      <link>https://www.benlaufer.com/publication/laufer-2021-08-27-457952/</link>
+      <pubDate>Tue, 31 Aug 2021 23:05:49 +0000</pubDate>
+      <guid>https://www.benlaufer.com/publication/laufer-2021-08-27-457952/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Placenta and fetal brain share a neurodevelopmental disorder DNA methylation profile in a mouse model of prenatal PCB exposure</title>
