@@ -5,12 +5,28 @@
     <link>https://www.benlaufer.com/</link>
       <atom:link href="https://www.benlaufer.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Laufer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Ben Laufer</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Ben Laufer</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.benlaufer.com/media/icon_hu722e9dca335367d014f443f764def99a_470506_512x512_fill_lanczos_center_3.png</url>
       <title>Ben Laufer</title>
       <link>https://www.benlaufer.com/</link>
     </image>
+    
+    <item>
+      <title>TMEM106B reduction does not rescue GRN deficiency in iPSC-derived human microglia and mouse models</title>
+      <link>https://www.benlaufer.com/publication/dominguez-2023-ui/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.benlaufer.com/publication/dominguez-2023-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gg4way</title>
+      <link>https://www.benlaufer.com/programs/gg4way/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.benlaufer.com/programs/gg4way/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lipid nanoparticle delivery limits antisense oligonucleotide activity and cellular distribution in the brain after intracerebroventricular injection</title>
