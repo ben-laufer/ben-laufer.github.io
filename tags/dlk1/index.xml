@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Dlk1&#34; | Ben Laufer</title>
+    <link>http://localhost:1313/tags/dlk1/</link>
+      <atom:link href="http://localhost:1313/tags/dlk1/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Dlk1&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>&#34;Dlk1&#34;</title>
+      <link>http://localhost:1313/tags/dlk1/</link>
+    </image>
+    
+    <item>
+      <title>A Macro Role for Imprinted Clusters of MicroRNAs in the Brain</title>
+      <link>http://localhost:1313/publication/journal-article/i-laufer-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/i-laufer-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

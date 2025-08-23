@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Epigenomics&#34; | Ben Laufer</title>
+    <link>http://localhost:1313/tags/epigenomics/</link>
+      <atom:link href="http://localhost:1313/tags/epigenomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Epigenomics&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>&#34;Epigenomics&#34;</title>
+      <link>http://localhost:1313/tags/epigenomics/</link>
+    </image>
+    
+    <item>
+      <title>Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience-dependent neuroplasticity of the developing hypothalamus: integrative epigenomic approaches</title>
+      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term alterations to DNA methylation as a biomarker of prenatal alcohol exposure: From mouse models to human children with fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation in psychosis: Insights into etiology and treatment</title>
+      <link>http://localhost:1313/publication/journal-article/castellani-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/castellani-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

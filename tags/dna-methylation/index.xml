@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;DNA Methylation&#34; | Ben Laufer</title>
+    <link>http://localhost:1313/tags/dna-methylation/</link>
+      <atom:link href="http://localhost:1313/tags/dna-methylation/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;DNA Methylation&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>&#34;DNA Methylation&#34;</title>
+      <link>http://localhost:1313/tags/dna-methylation/</link>
+    </image>
+    
+    <item>
+      <title>Cord blood DNA methylome in newborns later diagnosed with autism spectrum disorder reflects early dysregulation of neurodevelopmental and X-linked genes</title>
+      <link>http://localhost:1313/publication/journal-article/mordaunt-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/mordaunt-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenomic Convergence of Neural-Immune Risk Factors in Neurodevelopmental Disorder Cortex</title>
+      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience-dependent neuroplasticity of the developing hypothalamus: integrative epigenomic approaches</title>
+      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term alterations to DNA methylation as a biomarker of prenatal alcohol exposure: From mouse models to human children with fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation differences in monozygotic twin pairs discordant for schizophrenia identifies psychosis related genes and networks</title>
+      <link>http://localhost:1313/publication/journal-article/castellani-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/castellani-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation in psychosis: Insights into etiology and treatment</title>
+      <link>http://localhost:1313/publication/journal-article/castellani-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/castellani-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term genomic and epigenomic dysregulation as a consequence of prenatal alcohol exposure: A model for fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/kleiber-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/kleiber-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of olanzapine on genome-wide DNA methylation in the hippocampus and cerebellum</title>
+      <link>http://localhost:1313/publication/journal-article/melka-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/melka-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-lasting alterations to DNA methylation and ncRNAs could underlie the effects of fetal alcohol exposure in mice</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olanzapine induced DNA methylation changes support the dopamine hypothesis of psychosis</title>
+      <link>http://localhost:1313/publication/journal-article/melka-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/melka-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

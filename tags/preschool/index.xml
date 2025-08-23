@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Preschool&#34; | Ben Laufer</title>
+    <link>http://localhost:1313/tags/preschool/</link>
+      <atom:link href="http://localhost:1313/tags/preschool/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Preschool&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>&#34;Preschool&#34;</title>
+      <link>http://localhost:1313/tags/preschool/</link>
+    </image>
+    
+    <item>
+      <title>Long-term effects of wildfire smoke exposure during early life on the nasal  epigenome in rhesus macaques</title>
+      <link>http://localhost:1313/publication/journal-article/brown-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/brown-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Ben Laufer</title>
-    <link>https://www.benlaufer.com/tags/</link>
-      <atom:link href="https://www.benlaufer.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <title>&#34;&#34; | Ben Laufer</title>
+    <link>http://localhost:1313/tags/</link>
+      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Tags</title>
-      <link>https://www.benlaufer.com/tags/</link>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>&#34;&#34;</title>
+      <link>http://localhost:1313/tags/</link>
     </image>
+    
+    <item>
+      <title>Epigenomic Convergence of Neural-Immune Risk Factors in Neurodevelopmental Disorder Cortex</title>
+      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience-dependent neuroplasticity of the developing hypothalamus: integrative epigenomic approaches</title>
+      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associative DNA methylation changes in children with prenatal alcohol exposure</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2015-a/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term genomic and epigenomic dysregulation as a consequence of prenatal alcohol exposure: A model for fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/kleiber-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/kleiber-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular changes during neurodevelopment following second-trimester binge ethanol exposure in a mouse model of fetal alcohol spectrum disorder: From immediate effects to long-term adaptation</title>
+      <link>http://localhost:1313/publication/journal-article/mantha-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/mantha-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of olanzapine on genome-wide DNA methylation in the hippocampus and cerebellum</title>
+      <link>http://localhost:1313/publication/journal-article/melka-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/melka-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third trimester-equivalent ethanol exposure is characterized by an acute cellular stress response and an ontogenetic disruption of genes critical for synaptic establishment and function in mice</title>
+      <link>http://localhost:1313/publication/journal-article/kleiber-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/kleiber-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurodevelopmental epigenetic etiologies: Insights from studies on mouse models of fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2013-a/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-lasting alterations to DNA methylation and ncRNAs could underlie the effects of fetal alcohol exposure in mice</title>
+      <link>http://localhost:1313/publication/journal-article/laufer-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/laufer-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected rapporteur summaries from the XX world congress of psychiatric genetics, Hamburg, Germany, october 14-18, 2012</title>
+      <link>http://localhost:1313/publication/journal-article/anderson-schmidt-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/anderson-schmidt-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olanzapine induced DNA methylation changes support the dopamine hypothesis of psychosis</title>
+      <link>http://localhost:1313/publication/journal-article/melka-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/melka-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced expression of brain cannabinoid receptor 1 (Cnr1) is coupled with an increased complementary micro-RNA (miR-26b) in a mouse model of fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/stringer-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/stringer-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Macro Role for Imprinted Clusters of MicroRNAs in the Brain</title>
+      <link>http://localhost:1313/publication/journal-article/i-laufer-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/i-laufer-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term alterations to the brain transcriptome in a maternal voluntary consumption model of fetal alcohol spectrum disorders</title>
+      <link>http://localhost:1313/publication/journal-article/kleiber-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/kleiber-2012/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
