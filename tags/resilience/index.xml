@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Resilience&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/resilience/</link>
-      <atom:link href="http://localhost:1313/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/resilience/</link>
+      <atom:link href="https://www.benlaufer.com/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Resilience&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Resilience&#34;</title>
-      <link>http://localhost:1313/tags/resilience/</link>
+      <link>https://www.benlaufer.com/tags/resilience/</link>
     </image>
     
     <item>
       <title>Experience-dependent neuroplasticity of the developing hypothalamus: integrative epigenomic approaches</title>
-      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2018/</guid>
       <description></description>
     </item>
     

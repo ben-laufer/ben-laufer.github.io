@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Psychosis&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/psychosis/</link>
-      <atom:link href="http://localhost:1313/tags/psychosis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/psychosis/</link>
+      <atom:link href="https://www.benlaufer.com/tags/psychosis/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Psychosis&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Psychosis&#34;</title>
-      <link>http://localhost:1313/tags/psychosis/</link>
+      <link>https://www.benlaufer.com/tags/psychosis/</link>
     </image>
     
     <item>
       <title>DNA methylation in psychosis: Insights into etiology and treatment</title>
-      <link>http://localhost:1313/publication/journal-article/castellani-2015/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/castellani-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/castellani-2015/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/castellani-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of olanzapine on genome-wide DNA methylation in the hippocampus and cerebellum</title>
-      <link>http://localhost:1313/publication/journal-article/melka-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/melka-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/melka-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/melka-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olanzapine induced DNA methylation changes support the dopamine hypothesis of psychosis</title>
-      <link>http://localhost:1313/publication/journal-article/melka-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/melka-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/melka-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/melka-2013/</guid>
       <description></description>
     </item>
     

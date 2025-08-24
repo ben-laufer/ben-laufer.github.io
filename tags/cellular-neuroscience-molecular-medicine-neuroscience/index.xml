@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cellular Neuroscience; Molecular Medicine; Neuroscience | Ben Laufer</title>
-    <link>http://localhost:1313/tags/cellular-neuroscience-molecular-medicine-neuroscience/</link>
-      <atom:link href="http://localhost:1313/tags/cellular-neuroscience-molecular-medicine-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/cellular-neuroscience-molecular-medicine-neuroscience/</link>
+      <atom:link href="https://www.benlaufer.com/tags/cellular-neuroscience-molecular-medicine-neuroscience/index.xml" rel="self" type="application/rss+xml" />
     <description>Cellular Neuroscience; Molecular Medicine; Neuroscience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Cellular Neuroscience; Molecular Medicine; Neuroscience</title>
-      <link>http://localhost:1313/tags/cellular-neuroscience-molecular-medicine-neuroscience/</link>
+      <link>https://www.benlaufer.com/tags/cellular-neuroscience-molecular-medicine-neuroscience/</link>
     </image>
     
     <item>
       <title>TMEM106B reduction does not rescue GRN deficiency in iPSC-derived human microglia and mouse models</title>
-      <link>http://localhost:1313/publication/journal-article/dominguez-2023-ui/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/dominguez-2023-ui/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/dominguez-2023-ui/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/dominguez-2023-ui/</guid>
       <description></description>
     </item>
     

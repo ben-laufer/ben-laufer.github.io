@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Fetal Alcohol Spectrum Disorder&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/fetal-alcohol-spectrum-disorder/</link>
-      <atom:link href="http://localhost:1313/tags/fetal-alcohol-spectrum-disorder/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/fetal-alcohol-spectrum-disorder/</link>
+      <atom:link href="https://www.benlaufer.com/tags/fetal-alcohol-spectrum-disorder/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Fetal Alcohol Spectrum Disorder&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Fetal Alcohol Spectrum Disorder&#34;</title>
-      <link>http://localhost:1313/tags/fetal-alcohol-spectrum-disorder/</link>
+      <link>https://www.benlaufer.com/tags/fetal-alcohol-spectrum-disorder/</link>
     </image>
     
     <item>
       <title>Molecular changes during neurodevelopment following second-trimester binge ethanol exposure in a mouse model of fetal alcohol spectrum disorder: From immediate effects to long-term adaptation</title>
-      <link>http://localhost:1313/publication/journal-article/mantha-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/mantha-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/mantha-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/mantha-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term alterations to the brain transcriptome in a maternal voluntary consumption model of fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/kleiber-2012/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/kleiber-2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/kleiber-2012/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/kleiber-2012/</guid>
       <description></description>
     </item>
     

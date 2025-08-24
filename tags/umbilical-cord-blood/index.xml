@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Umbilical Cord Blood&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/umbilical-cord-blood/</link>
-      <atom:link href="http://localhost:1313/tags/umbilical-cord-blood/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/umbilical-cord-blood/</link>
+      <atom:link href="https://www.benlaufer.com/tags/umbilical-cord-blood/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Umbilical Cord Blood&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Umbilical Cord Blood&#34;</title>
-      <link>http://localhost:1313/tags/umbilical-cord-blood/</link>
+      <link>https://www.benlaufer.com/tags/umbilical-cord-blood/</link>
     </image>
     
     <item>
       <title>Cord blood DNA methylome in newborns later diagnosed with autism spectrum disorder reflects early dysregulation of neurodevelopmental and X-linked genes</title>
-      <link>http://localhost:1313/publication/journal-article/mordaunt-2020/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/mordaunt-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/mordaunt-2020/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/mordaunt-2020/</guid>
       <description></description>
     </item>
     

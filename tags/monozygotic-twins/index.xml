@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Monozygotic Twins&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/monozygotic-twins/</link>
-      <atom:link href="http://localhost:1313/tags/monozygotic-twins/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/monozygotic-twins/</link>
+      <atom:link href="https://www.benlaufer.com/tags/monozygotic-twins/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Monozygotic Twins&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Monozygotic Twins&#34;</title>
-      <link>http://localhost:1313/tags/monozygotic-twins/</link>
+      <link>https://www.benlaufer.com/tags/monozygotic-twins/</link>
     </image>
     
     <item>
       <title>DNA methylation differences in monozygotic twin pairs discordant for schizophrenia identifies psychosis related genes and networks</title>
-      <link>http://localhost:1313/publication/journal-article/castellani-2015-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/castellani-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/castellani-2015-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/castellani-2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA methylation in psychosis: Insights into etiology and treatment</title>
-      <link>http://localhost:1313/publication/journal-article/castellani-2015/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/castellani-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/castellani-2015/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/castellani-2015/</guid>
       <description></description>
     </item>
     

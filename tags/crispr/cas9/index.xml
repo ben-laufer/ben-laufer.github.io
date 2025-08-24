@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;CRISPR/Cas9&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/crispr/cas9/</link>
-      <atom:link href="http://localhost:1313/tags/crispr/cas9/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/crispr/cas9/</link>
+      <atom:link href="https://www.benlaufer.com/tags/crispr/cas9/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;CRISPR/Cas9&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;CRISPR/Cas9&#34;</title>
-      <link>http://localhost:1313/tags/crispr/cas9/</link>
+      <link>https://www.benlaufer.com/tags/crispr/cas9/</link>
     </image>
     
     <item>
       <title>Strategies for precision modulation of gene expression by epigenome editing: An overview</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2015/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2015/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2015/</guid>
       <description></description>
     </item>
     

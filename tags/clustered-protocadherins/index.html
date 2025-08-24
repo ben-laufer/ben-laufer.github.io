@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 22, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 24, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/tags/clustered-protocadherins/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/tags/clustered-protocadherins/" />
 
   
   
@@ -62,7 +62,9 @@
   
   
     
-      <link rel="stylesheet" href="/css/main.css">
+      
+        <link rel="stylesheet" href="/css/main.1b09a39eeca116b44144901bd1fa343b2781d43bb2146a945e6f3c393f7a0adb.css" integrity="sha256-GwmjnuyhFrRBRJAb0fo0OyeB1DuyFGqUXm88OT96Cts=" crossorigin="anonymous">
+      
     
   
 
@@ -139,6 +141,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5L2JFHQNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C5L2JFHQNQ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -172,7 +213,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu_c545d605fbaba839.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_b7aec86dcb688f0.png" />
 
-  <link rel="canonical" href="http://localhost:1313/tags/clustered-protocadherins/" />
+  <link rel="canonical" href="https://www.benlaufer.com/tags/clustered-protocadherins/" />
 
   
   
@@ -198,10 +239,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="http://localhost:1313/tags/clustered-protocadherins/" />
+  <meta property="og:url" content="https://www.benlaufer.com/tags/clustered-protocadherins/" />
   <meta property="og:title" content="&#34;Clustered Protocadherins&#34; | Ben Laufer" />
-  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_982c5d63a71b2961.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_982c5d63a71b2961.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;00:00" />
@@ -768,8 +809,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.793369654bc01792cf2278e18052e3adff8b32fb9b30b728641aec0db157a4a5.js"
+    integrity="sha256-eTNpZUvAF5LPInjhgFLjrf&#43;LMvubMLcoZBrsDbFXpKU="
   ></script>
 
   

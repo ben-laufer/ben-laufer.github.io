@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Brain: Pathology&#34; | Ben Laufer</title>
-    <link>http://localhost:1313/tags/brain-pathology/</link>
-      <atom:link href="http://localhost:1313/tags/brain-pathology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/tags/brain-pathology/</link>
+      <atom:link href="https://www.benlaufer.com/tags/brain-pathology/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Brain: Pathology&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>&#34;Brain: Pathology&#34;</title>
-      <link>http://localhost:1313/tags/brain-pathology/</link>
+      <link>https://www.benlaufer.com/tags/brain-pathology/</link>
     </image>
     
     <item>
       <title>Long-lasting alterations to DNA methylation and ncRNAs could underlie the effects of fetal alcohol exposure in mice</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2013/</guid>
       <description></description>
     </item>
     

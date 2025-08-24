@@ -2,317 +2,317 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ben Laufer</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/publication/</link>
+      <atom:link href="https://www.benlaufer.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://www.benlaufer.com/publication/</link>
     </image>
     
     <item>
       <title>TMEM106B reduction does not rescue GRN deficiency in iPSC-derived human microglia and mouse models</title>
-      <link>http://localhost:1313/publication/journal-article/dominguez-2023-ui/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/dominguez-2023-ui/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/dominguez-2023-ui/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/dominguez-2023-ui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lipid nanoparticle delivery limits antisense oligonucleotide activity and cellular distribution in the brain after intracerebroventricular injection</title>
-      <link>http://localhost:1313/publication/journal-article/byrnes-2023-sb/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/byrnes-2023-sb/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/byrnes-2023-sb/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/byrnes-2023-sb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-species transcriptomic atlas of dorsal root ganglia reveals species-specific programs for sensory function</title>
-      <link>http://localhost:1313/publication/journal-article/jung-2023-rc/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/jung-2023-rc/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/jung-2023-rc/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/jung-2023-rc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-omic brain and behavioral correlates of cell-free fetal DNA methylation in macaque maternal obesity models</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2022-ze/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2022-ze/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2022-ze/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2022-ze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disease-associated oligodendrocyte responses across neurodegenerative diseases</title>
-      <link>http://localhost:1313/publication/journal-article/pandey-2022-xg/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/pandey-2022-xg/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/pandey-2022-xg/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/pandey-2022-xg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevated exposures to persistent endocrine disrupting compounds impact the sperm methylome in regions associated with autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/journal-article/maggio-2022-px/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/maggio-2022-px/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/maggio-2022-px/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/maggio-2022-px/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placenta and fetal brain share a neurodevelopmental disorder DNA methylation profile in a mouse model of prenatal PCB exposure</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2022/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2022/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placental methylome reveals a 22q13.33 brain regulatory gene locus associated with autism</title>
-      <link>http://localhost:1313/publication/journal-article/zhu-2022/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/zhu-2022/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/zhu-2022/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/zhu-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term effects of wildfire smoke exposure during early life on the nasal  epigenome in rhesus macaques</title>
-      <link>http://localhost:1313/publication/journal-article/brown-2022/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/brown-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/brown-2022/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/brown-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epigenetic Impacts of Early Life Stress in Fetal Alcohol Spectrum Disorders Shape the Neurodevelopmental Continuum</title>
-      <link>http://localhost:1313/publication/journal-article/alberry-2021/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/alberry-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/alberry-2021/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/alberry-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2021-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2021-a/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2021-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2021-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cord blood DNA methylome in newborns later diagnosed with autism spectrum disorder reflects early dysregulation of neurodevelopmental and X-linked genes</title>
-      <link>http://localhost:1313/publication/journal-article/mordaunt-2020/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/mordaunt-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/mordaunt-2020/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/mordaunt-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-pass whole genome bisulfite sequencing of neonatal dried blood spots identifies a role for RUNX1 in down syndrome DNA methylation profiles</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2020/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2020/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2019/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2019/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epigenomic Convergence of Neural-Immune Risk Factors in Neurodevelopmental Disorder Cortex</title>
-      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2019/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2019/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imprinting effects of UBE3A loss on synaptic gene networks and Wnt signaling pathways</title>
-      <link>http://localhost:1313/publication/journal-article/lopez-2019/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/lopez-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/lopez-2019/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/lopez-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snord116-dependent diurnal rhythm of DNA methylation in mouse cortex</title>
-      <link>http://localhost:1313/publication/journal-article/coulson-2018/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/coulson-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/coulson-2018/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/coulson-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience-dependent neuroplasticity of the developing hypothalamus: integrative epigenomic approaches</title>
-      <link>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/vogel-ciernia-2018/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/vogel-ciernia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changes to histone modifications following prenatal alcohol exposure: An emerging picture</title>
-      <link>http://localhost:1313/publication/journal-article/chater-diehl-2017/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/chater-diehl-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/chater-diehl-2017/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/chater-diehl-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term alterations to DNA methylation as a biomarker of prenatal alcohol exposure: From mouse models to human children with fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2017/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2017/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Long-Term Neuroepigenomic Profile of Prenatal Alcohol Exposure</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2016/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2016/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alteration of gene expression, DNA methylation, and histone methylation in free radical scavenging networks in adult mouse hippocampus following fetal alcohol exposure</title>
-      <link>http://localhost:1313/publication/journal-article/chater-diehl-2016/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/chater-diehl-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/chater-diehl-2016/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/chater-diehl-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategies for precision modulation of gene expression by epigenome editing: An overview</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2015/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2015/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associative DNA methylation changes in children with prenatal alcohol exposure</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2015-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2015-a/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2015-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA methylation differences in monozygotic twin pairs discordant for schizophrenia identifies psychosis related genes and networks</title>
-      <link>http://localhost:1313/publication/journal-article/castellani-2015-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/castellani-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/castellani-2015-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/castellani-2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA methylation in psychosis: Insights into etiology and treatment</title>
-      <link>http://localhost:1313/publication/journal-article/castellani-2015/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/castellani-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/castellani-2015/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/castellani-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fetal alcohol and the right to be born healthy</title>
-      <link>http://localhost:1313/publication/journal-article/singh-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/singh-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/singh-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/singh-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term genomic and epigenomic dysregulation as a consequence of prenatal alcohol exposure: A model for fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/kleiber-2014-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/kleiber-2014-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/kleiber-2014-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/kleiber-2014-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular changes during neurodevelopment following second-trimester binge ethanol exposure in a mouse model of fetal alcohol spectrum disorder: From immediate effects to long-term adaptation</title>
-      <link>http://localhost:1313/publication/journal-article/mantha-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/mantha-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/mantha-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/mantha-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of olanzapine on genome-wide DNA methylation in the hippocampus and cerebellum</title>
-      <link>http://localhost:1313/publication/journal-article/melka-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/melka-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/melka-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/melka-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third trimester-equivalent ethanol exposure is characterized by an acute cellular stress response and an ontogenetic disruption of genes critical for synaptic establishment and function in mice</title>
-      <link>http://localhost:1313/publication/journal-article/kleiber-2014/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/kleiber-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/kleiber-2014/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/kleiber-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurodevelopmental epigenetic etiologies: Insights from studies on mouse models of fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2013-a/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2013-a/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2013-a/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2013-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-lasting alterations to DNA methylation and ncRNAs could underlie the effects of fetal alcohol exposure in mice</title>
-      <link>http://localhost:1313/publication/journal-article/laufer-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/laufer-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/laufer-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/laufer-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected rapporteur summaries from the XX world congress of psychiatric genetics, Hamburg, Germany, october 14-18, 2012</title>
-      <link>http://localhost:1313/publication/journal-article/anderson-schmidt-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/anderson-schmidt-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olanzapine induced DNA methylation changes support the dopamine hypothesis of psychosis</title>
-      <link>http://localhost:1313/publication/journal-article/melka-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/melka-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/melka-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/melka-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reduced expression of brain cannabinoid receptor 1 (Cnr1) is coupled with an increased complementary micro-RNA (miR-26b) in a mouse model of fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/stringer-2013/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/stringer-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/stringer-2013/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/stringer-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Macro Role for Imprinted Clusters of MicroRNAs in the Brain</title>
-      <link>http://localhost:1313/publication/journal-article/i-laufer-2012/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/i-laufer-2012/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/i-laufer-2012/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/i-laufer-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term alterations to the brain transcriptome in a maternal voluntary consumption model of fetal alcohol spectrum disorders</title>
-      <link>http://localhost:1313/publication/journal-article/kleiber-2012/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/kleiber-2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/kleiber-2012/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/kleiber-2012/</guid>
       <description></description>
     </item>
     

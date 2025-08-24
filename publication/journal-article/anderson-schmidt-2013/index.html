@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 22, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 24, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="The XXth World Congress of Psychiatric Genetics (WCPG), sponsored by The International Society of Psychiatric Genetics (ISPG) took place in Hamburg, Germany on October 14-18, 2012. Approximately 600 participants gathered to discuss the latest findings in this rapidly advancing field. The following report was written by student travel awardees. Each was assigned sessions as rapporteurs. This manuscript represents topics covered in most, but not all, oral presentations during the conference, and some of the major notable new findings reported at this 2012 WCPG. © 2013 Wiley Periodicals, Inc." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/journal-article/anderson-schmidt-2013/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/" />
 
   
   
@@ -62,7 +62,9 @@
   
   
     
-      <link rel="stylesheet" href="/css/main.css">
+      
+        <link rel="stylesheet" href="/css/main.1b09a39eeca116b44144901bd1fa343b2781d43bb2146a945e6f3c393f7a0adb.css" integrity="sha256-GwmjnuyhFrRBRJAb0fo0OyeB1DuyFGqUXm88OT96Cts=" crossorigin="anonymous">
+      
     
   
 
@@ -139,6 +141,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5L2JFHQNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C5L2JFHQNQ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -170,7 +211,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu_c545d605fbaba839.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_b7aec86dcb688f0.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/journal-article/anderson-schmidt-2013/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/" />
 
   
   
@@ -196,10 +237,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="http://localhost:1313/publication/journal-article/anderson-schmidt-2013/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/" />
   <meta property="og:title" content="Selected rapporteur summaries from the XX world congress of psychiatric genetics, Hamburg, Germany, october 14-18, 2012 | Ben Laufer" />
-  <meta property="og:description" content="The XXth World Congress of Psychiatric Genetics (WCPG), sponsored by The International Society of Psychiatric Genetics (ISPG) took place in Hamburg, Germany on October 14-18, 2012. Approximately 600 participants gathered to discuss the latest findings in this rapidly advancing field. The following report was written by student travel awardees. Each was assigned sessions as rapporteurs. This manuscript represents topics covered in most, but not all, oral presentations during the conference, and some of the major notable new findings reported at this 2012 WCPG. © 2013 Wiley Periodicals, Inc." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_982c5d63a71b2961.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_982c5d63a71b2961.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="The XXth World Congress of Psychiatric Genetics (WCPG), sponsored by The International Society of Psychiatric Genetics (ISPG) took place in Hamburg, Germany on October 14-18, 2012. Approximately 600 participants gathered to discuss the latest findings in this rapidly advancing field. The following report was written by student travel awardees. Each was assigned sessions as rapporteurs. This manuscript represents topics covered in most, but not all, oral presentations during the conference, and some of the major notable new findings reported at this 2012 WCPG. © 2013 Wiley Periodicals, Inc." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu_982c5d63a71b2961.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -229,7 +270,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/journal-article/anderson-schmidt-2013/"
+    "@id": "https://www.benlaufer.com/publication/journal-article/anderson-schmidt-2013/"
   },
   "headline": "Selected rapporteur summaries from the XX world congress of psychiatric genetics, Hamburg, Germany, october 14-18, 2012",
   
@@ -246,7 +287,7 @@
     "name": "Ben Laufer",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu_a6282450d1fd5f43.png"
+      "url": "https://www.benlaufer.com/media/icon_hu_a6282450d1fd5f43.png"
     }
   },
   "description": "The XXth World Congress of Psychiatric Genetics (WCPG), sponsored by The International Society of Psychiatric Genetics (ISPG) took place in Hamburg, Germany on October 14-18, 2012. Approximately 600 participants gathered to discuss the latest findings in this rapidly advancing field. The following report was written by student travel awardees. Each was assigned sessions as rapporteurs. This manuscript represents topics covered in most, but not all, oral presentations during the conference, and some of the major notable new findings reported at this 2012 WCPG. © 2013 Wiley Periodicals, Inc."
@@ -813,8 +854,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.793369654bc01792cf2278e18052e3adff8b32fb9b30b728641aec0db157a4a5.js"
+    integrity="sha256-eTNpZUvAF5LPInjhgFLjrf&#43;LMvubMLcoZBrsDbFXpKU="
   ></script>
 
   
@@ -1804,7 +1845,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;text=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
+    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.benlaufer.com%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;text=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1822,7 +1863,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;t=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
+    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.benlaufer.com%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;t=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1842,7 +1883,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Selected%20rapporteur%20summaries%20from%20the%20XX%20world%20congress%20of%20psychiatric%20genetics%2C%20Hamburg%2C%20Germany%2C%20october%2014-18%2C%202012&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F"
+    href="mailto:?subject=Selected%20rapporteur%20summaries%20from%20the%20XX%20world%20congress%20of%20psychiatric%20genetics%2C%20Hamburg%2C%20Germany%2C%20october%2014-18%2C%202012&amp;body=https%3A%2F%2Fwww.benlaufer.com%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1860,7 +1901,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;title=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
+    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.benlaufer.com%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F&amp;title=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1878,7 +1919,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F"
+    href="whatsapp://send?text=Selected&#43;rapporteur&#43;summaries&#43;from&#43;the&#43;XX&#43;world&#43;congress&#43;of&#43;psychiatric&#43;genetics%2C&#43;Hamburg%2C&#43;Germany%2C&#43;october&#43;14-18%2C&#43;2012%20https%3A%2F%2Fwww.benlaufer.com%2Fpublication%2Fjournal-article%2Fanderson-schmidt-2013%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
