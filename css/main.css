@@ -796,9 +796,6 @@
   .mr-1 {
     margin-right: calc(var(--spacing) * 1);
   }
-  .mr-2 {
-    margin-right: calc(var(--spacing) * 2);
-  }
   .\!mb-4 {
     margin-bottom: calc(var(--spacing) * 4) !important;
   }
@@ -1111,9 +1108,6 @@
   .p-8 {
     padding: calc(var(--spacing) * 8);
   }
-  .px-2\.5 {
-    padding-inline: calc(var(--spacing) * 2.5);
-  }
   .px-3 {
     padding-inline: calc(var(--spacing) * 3);
   }
@@ -1128,9 +1122,6 @@
   }
   .px-8 {
     padding-inline: calc(var(--spacing) * 8);
-  }
-  .py-0\.5 {
-    padding-block: calc(var(--spacing) * 0.5);
   }
   .py-2 {
     padding-block: calc(var(--spacing) * 2);
@@ -1382,11 +1373,6 @@
       @supports (color: color-mix(in lab, red, red)) {
         background-color: color-mix(in oklab, var(--color-gray-800) 5%, transparent);
       }
-    }
-  }
-  .hover\:bg-primary-300 {
-    &:hover {
-      background-color: var(--color-primary-300);
     }
   }
   .hover\:bg-primary-500 {
@@ -1746,16 +1732,6 @@
       }
     }
   }
-  .lg\:px-5 {
-    @media (width >= 64rem) {
-      padding-inline: calc(var(--spacing) * 5);
-    }
-  }
-  .lg\:py-2 {
-    @media (width >= 64rem) {
-      padding-block: calc(var(--spacing) * 2);
-    }
-  }
   .lg\:pb-0 {
     @media (width >= 64rem) {
       padding-bottom: calc(var(--spacing) * 0);
@@ -1881,11 +1857,6 @@
       background-color: var(--color-primary-600);
     }
   }
-  .dark\:bg-primary-900 {
-    &:where(.dark, .dark *) {
-      background-color: var(--color-primary-900);
-    }
-  }
   .dark\:bg-zinc-900 {
     &:where(.dark, .dark *) {
       background-color: var(--color-zinc-900);
@@ -1914,11 +1885,6 @@
   .dark\:text-primary-200 {
     &:where(.dark, .dark *) {
       color: var(--color-primary-200);
-    }
-  }
-  .dark\:text-primary-300 {
-    &:where(.dark, .dark *) {
-      color: var(--color-primary-300);
     }
   }
   .dark\:text-primary-900 {
