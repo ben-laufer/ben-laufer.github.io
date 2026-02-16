@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Ben Laufer</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.benlaufer.com/publication_types/article-journal/</link>
+      <atom:link href="https://www.benlaufer.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>https://www.benlaufer.com/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>https://www.benlaufer.com/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Multiplex screening of transferrin receptor-targeted lipid nanoparticles for systemic brain delivery using DNA barcodes</title>
-      <link>http://localhost:1313/publication/journal-article/10-1016-j-celbio-2025-100303/</link>
+      <link>https://www.benlaufer.com/publication/journal-article/10-1016-j-celbio-2025-100303/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/10-1016-j-celbio-2025-100303/</guid>
+      <guid>https://www.benlaufer.com/publication/journal-article/10-1016-j-celbio-2025-100303/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Predictive in vitro profiling of LNP-induced innate immune response using an iPSC-derived monocyte model</title>
-      <link>http://localhost:1313/publication/preprint/10-1101-2025-09-26-678842/</link>
+      <link>https://www.benlaufer.com/publication/preprint/10-1101-2025-09-26-678842/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/10-1101-2025-09-26-678842/</guid>
+      <guid>https://www.benlaufer.com/publication/preprint/10-1101-2025-09-26-678842/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated Cross-Disease Atlas of Human And Mouse Astrocytes Reveals Heterogeneity and Conservation of Astrocyte Subtypes in Neurodegeneration</title>
-      <link>http://localhost:1313/publication/preprint/10-1101-2025-02-12-637903/</link>
+      <link>https://www.benlaufer.com/publication/preprint/10-1101-2025-02-12-637903/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/10-1101-2025-02-12-637903/</guid>
+      <guid>https://www.benlaufer.com/publication/preprint/10-1101-2025-02-12-637903/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

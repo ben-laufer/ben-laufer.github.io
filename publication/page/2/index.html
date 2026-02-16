@@ -3,7 +3,7 @@
 <!-- Last Published: February 16, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/" />
+  <link rel="alternate" hreflang="en-us" href="https://www.benlaufer.com/publication/" />
 
   
   
@@ -62,7 +62,9 @@
   
   
     
-      <link rel="stylesheet" href="/css/main.css">
+      
+        <link rel="stylesheet" href="/css/main.9b21df074eb89adfeb1abdc0f0bee3ef0f94604f96ab0f5d06784fb499c8546e.css" integrity="sha256-myHfB064mt/rGr3A8L7j7w&#43;UYE&#43;Wqw9dBnhPtJnIVG4=" crossorigin="anonymous">
+      
     
   
 
@@ -139,6 +141,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5L2JFHQNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-C5L2JFHQNQ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -172,7 +213,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu_3c08a0ca42035b2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_37e490f56116280a.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/" />
+  <link rel="canonical" href="https://www.benlaufer.com/publication/" />
 
   
   
@@ -198,10 +239,10 @@
     <meta property="twitter:creator" content="@laufer_ben" />
   
   <meta property="og:site_name" content="Ben Laufer" />
-  <meta property="og:url" content="http://localhost:1313/publication/" />
+  <meta property="og:url" content="https://www.benlaufer.com/publication/" />
   <meta property="og:title" content="Publications | Ben Laufer" />
-  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_fb558a5ed99f547e.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Ben Laufer is a bioinformatics researcher specialized in genomics and neuroscience." /><meta property="og:image" content="https://www.benlaufer.com/media/icon_hu_fb558a5ed99f547e.png" />
+    <meta property="twitter:image" content="https://www.benlaufer.com/media/icon_hu_fb558a5ed99f547e.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2025-12-29T00:00:00&#43;00:00" />
@@ -646,8 +687,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.793369654bc01792cf2278e18052e3adff8b32fb9b30b728641aec0db157a4a5.js"
+    integrity="sha256-eTNpZUvAF5LPInjhgFLjrf&#43;LMvubMLcoZBrsDbFXpKU="
   ></script>
 
   
@@ -985,7 +1026,7 @@
       Lucy Cai</span>, <span >
       Benjamin I. Laufer</span>, <span >
       Lisa A. Miller</span>, <span >
-      Janine M. Lasalle</span>, <span >
+      Janine M. LaSalle</span>, <span >
       Hong Ji</span>
   </span>
   (2022).
@@ -1090,7 +1131,7 @@
       Benjamin I. Laufer</span>, <span >
       J. Antonio Gomez</span>, <span >
       Julia M. Jianu</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2021).
   <a href="/publication/journal-article/laufer-2021-a/" class="underline">Stable DNMT3L overexpression in SH-SY5Y neurons recreates a facet of the genome-wide Down syndrome DNA methylation signature</a>.
@@ -1329,7 +1370,7 @@
       Charles E. Mordaunt</span>, <span >
       Ian F. Korf</span>, <span >
       Irva Hertz-Picciotto</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2020).
   <a href="/publication/journal-article/laufer-2020/" class="underline">Low-pass whole genome bisulfite sequencing of neonatal dried blood spots identifies a role for RUNX1 in down syndrome DNA methylation profiles</a>.
@@ -1446,7 +1487,7 @@
       Irva Hertz-Picciotto</span>, <span >
       M. Daniele Fallin</span>, <span >
       Rebecca J. Schmidt</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2020).
   <a href="/publication/journal-article/mordaunt-2020/" class="underline">Cord blood DNA methylome in newborns later diagnosed with autism spectrum disorder reflects early dysregulation of neurodevelopmental and X-linked genes</a>.
@@ -1551,7 +1592,7 @@
       Hyeyeon Hwang</span>, <span >
       Annie Vogel Ciernia</span>, <span >
       Charles E. Mordaunt</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2019).
   <a href="/publication/journal-article/laufer-2019/" class="underline">Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disorder insights</a>.
@@ -1687,7 +1728,7 @@
       Charles E. Mordaunt</span>, <span >
       Rochelle L. Coulson</span>, <span >
       Dag H. Yasui</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2019).
   <a href="/publication/journal-article/vogel-ciernia-2019/" class="underline">Epigenomic Convergence of Neural-Immune Risk Factors in Neurodevelopmental Disorder Cortex</a>.
@@ -1823,7 +1864,7 @@
       Jill L. Silverman</span>, <span >
       Henriette O&#39;geen</span>, <span >
       David J. Segal</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2019).
   <a href="/publication/journal-article/lopez-2019/" class="underline">Imprinting effects of UBE3A loss on synaptic gene networks and Wnt signaling pathways</a>.
@@ -1932,7 +1973,7 @@
       Yihui Zhu</span>, <span >
       Charles E. Mordaunt</span>, <span >
       Theresa S. Totah</span>, <span >
-      Janine M. Lasalle</span>
+      Janine M. LaSalle</span>
   </span>
   (2018).
   <a href="/publication/journal-article/coulson-2018/" class="underline">Snord116-dependent diurnal rhythm of DNA methylation in mouse cortex</a>.
